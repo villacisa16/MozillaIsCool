@@ -1,1 +1,3 @@
-# mozilla
+# MozillaIsCool
+
+![Error](img/mozilla.jpg)
